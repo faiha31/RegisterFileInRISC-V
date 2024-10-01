@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vbit_mux64to1
+Z0 !s110 1727800060
+!i10b 1
+!s100 IaVKenlRfILX>:3MO^6633
+I`NCzXUo50kZQW:SUTjlW]3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/NewProjects/rf
+Z3 w1727799427
+Z4 8D:/NewProjects/rf/RegFile.v
+Z5 FD:/NewProjects/rf/RegFile.v
+L0 89
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1727800060.000000
+Z8 !s107 D:/NewProjects/rf/RegFile.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/NewProjects/rf/RegFile.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vbit_reg
+R0
+!i10b 1
+!s100 RK<zZ=fe83`_VDgVQA=Gb2
+IXEQ>>DGlbcF^h]=YGYN[90
+R1
+R2
+R3
+R4
+R5
+L0 69
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdecoder_6_to_64
+R0
+!i10b 1
+!s100 _7cUYc;nD7D;ij=B^MIAm2
+IGAiTVL9QBcQ9C8jX_AHY00
+R1
+R2
+R3
+R4
+R5
+L0 54
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vRegisterFile
+R0
+!i10b 1
+!s100 ]LX1FHWNaLdi@d4WTSa5E2
+IdXG92;T9g9RimIe?2RT?d0
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@register@file
+vRegisterFile_tb
+!s110 1727800436
+!i10b 1
+!s100 8Y6Q774ge3VU^NL=?]fcK2
+ImVDO`:mTiUPgS]IMTjR@c0
+R1
+R2
+w1727800431
+8D:\NewProjects\rf\RegFile_tb.v
+FD:\NewProjects\rf\RegFile_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1727800436.000000
+!s107 D:\NewProjects\rf\RegFile_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\rf\RegFile_tb.v|
+!i113 1
+R10
+R11
+n@register@file_tb

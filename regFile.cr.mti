@@ -1,0 +1,18 @@
+D:/NewProjects/rf/RegFile.v {1 {vlog -work work -stats=none D:/NewProjects/rf/RegFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+-- Compiling module decoder_6_to_64
+-- Compiling module bit_reg
+-- Compiling module bit_mux64to1
+
+Top level modules:
+	RegisterFile
+
+} {} {}} D:/NewProjects/rf/RegFile_tb.v {1 {vlog -work work -stats=none {D:\NewProjects\rf\RegFile_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile_tb
+
+Top level modules:
+	RegisterFile_tb
+
+} {} {}}
